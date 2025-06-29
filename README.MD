@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it now](https://your-live-link.com)
+👉 [Click here to try it now](https://pixel-css.vercel.app/)
 
 ---
 
@@ -44,11 +44,6 @@
 4. HTML `div`s generated for every pixel with inline styles
 5. CSS generated to style layout and pixels
 
----
-
-## 📸 Screenshots
-
-<!-- Optionally insert screenshots or previews -->
 
 ---
 
@@ -61,7 +56,7 @@ yarn install
 yarn dev
 ```
 
-Visit: [http://localhost:3000](http://localhost:3000)
+Visit: [https://pixel-css.vercel.app/](https://pixel-css.vercel.app/)
 
 
 
@@ -86,7 +81,7 @@ Visit: [http://localhost:3000](http://localhost:3000)
 ## 👨‍💻 Author
 
 **Neelesh Kumar Rana**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/yourhandle) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://linkedin.com/in/neelesh-kumar-rana) | [Twitter](https://twitter.com/neeleshkr22) | [Portfolio](https://www.neeleshkumar.me/)
 
 ---
 
