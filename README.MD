@@ -13,6 +13,11 @@
 👉 [Click here to try it now](https://pixel-css.vercel.app/)
 
 ---
+## 🎥 Project Showcase
+
+![Pixel CSS Demo](./public/pixelcss-ezgif.com-speed.gif)
+
+---
 
 ## ✨ Features
 
